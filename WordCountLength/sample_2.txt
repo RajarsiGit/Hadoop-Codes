@@ -1,0 +1,445 @@
+iOS version history
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+This article is about Apple iOS mobile operating system version history. For Cisco Systems' router/switch OS, see Cisco IOS.
+
+This article may be too long to read and navigate comfortably. Please consider splitting content into sub-articles, condensing it, or adding subheadings. (May 2020)
+iOS is a mobile operating system, developed by Apple Inc. for iPhone, iPad, iPod Touch, and HomePod. Updates for iOS are released through iTunes on Microsoft Windows and versions of macOS before macOS Catalina (since replaced with a section in the macOS Finder)[1] and, since iOS 5, via over-the-air software updates. With the announcement of iOS 5 on June 6, 2011, a USB connection to iTunes was no longer needed to activate iOS devices; data synchronization can happen automatically and wirelessly through Apple's iCloud service. Major new iOS releases are announced yearly during the Apple Worldwide Developers Conference (WWDC), and are usually released in September of the same year, usually coinciding with the release of new iPhone models. On September 24, 2019, Apple rebranded the operating system for the iPad line to iPadOS. iPadOS is similar to iOS but has received a few tablet oriented features. The most recent stable release for iPhone and iPod Touch, iOS 13.5, was released on May 20, 2020.
+
+
+Contents
+1	Overview
+2	Version history
+2.1	iPhone OS 1
+2.2	iPhone OS 2
+2.3	iPhone OS 3
+2.4	iOS 4
+2.5	iOS 5
+2.6	iOS 6
+2.7	iOS 7
+2.8	iOS 8
+2.9	iOS 9
+2.10	iOS 10
+2.11	iOS 11
+2.12	iOS 12
+2.13	iOS 13
+3	Notable software bugs and issues in iOS
+3.1	iOS 4
+3.2	iOS 5
+3.3	iOS 6
+3.4	iOS 7
+3.5	iOS 8
+3.6	iOS 9
+3.7	iOS 10
+3.8	iOS 11
+3.9	iOS 12
+4	Device codes
+5	See also
+6	References
+7	Further reading
+8	External links
+Overview
+
+Current iOS versions
+Version	Build	Processor support	Application support	Kernel	Release date	Device end-of-life
+iPad	iPhone	iPod Touch
+3.1.3	7E18	32-bit ARM	February 2, 2010	N/A	
+1st gen
+1
+4.2.1	8C148	November 22, 2010	
+3G
+2
+5.1.1	9B206	May 7, 2012	
+1st gen
+N/A	
+3
+6.1.6	10B500	February 21, 2014	N/A	
+3GS
+4
+7.1.2	11D257	32/64-bit ARM[2][3]	June 30, 2014	
+4
+N/A
+9.3.5	13G36	August 25, 2016	
+2, 3, Mini
+N/A	
+5
+9.3.6	13G37	July 22, 2019	
+4S
+N/A
+10.3.3	14G60	July 19, 2017	
+4
+5C
+10.3.4	14G61	July 22, 2019	
+5
+12.4.7	16G192	64-bit ARM[4]	May 20, 2020	
+Air, Mini 2, Mini 3
+5S, 6
+6
+13.5	17F75	May 20, 2020	N/A
+Legend:   Discontinued   Current   Beta
+June 2007 saw the official release of what eventually became iOS – concurrently with the first iPhone. iOS did not have an official name until the official release of the iPhone software development kit (iPhone SDK) on March 6, 2008. Before then, Apple marketing simply stated that iPhone ran a version of Mac OS X made specifically for the iPhone.[5] When iOS was introduced, it was named iPhone OS. It was officially renamed iOS on June 7, 2010, with the announcement and introduction of the first-generation iPad. The introduction of what would later become the iPad line, and the existence of iPod Touch, meant the iPhone was no longer the only device to run the mobile operating system. iOS 4 was the first major iOS release that reflected the name change.[6] Apple licensed the "iOS" trademark from Cisco Systems.[7]
+
+Apple concurrently provides the same version of iOS for the comparable model of iPhone and iPod Touch, usually devices released in the same calendar year. iPhone users receive all software updates for free, while iPod Touch users paid for the 2.0 and 3.0 major software updates. As of iOS 4, Apple no longer charges money for iPod Touch updates.[8]
+
+As of 2020, three versions of iOS were never released. iPhone OS 1.2, which after the first beta was replaced by a 2.0 version number; the second beta was named 2.0 beta 2 instead of 1.2 beta 2. The second was iOS 4.2, replaced with 4.2.1 due to a Wi-Fi bug in 4.2 beta 3, causing Apple to release 2 golden masters (4.2 GM and 4.2.1 GM).[9] The most recent one was iOS 13.4.5, which was renamed to iOS 13.5 when Beta 3 was released, due to the fact that it has a slightly different SDK compared to iOS 13.4. One version of iOS was pulled back by Apple after being released. iOS 8.0.1 was pulled back by Apple because cellular service and Touch ID were disabled on iPhone 6 and iPhone 6 Plus.
+
+Version history
+Legend:	  Obsolete	  Discontinued	  Current	  Beta
+iPhone OS 1
+Apple announced iPhone OS 1 at the iPhone keynote on January 9, 2007, and it was released to the public alongside the original iPhone on June 29, 2007. No official name was given on its initial release; Apple marketing literature simply stated the iPhone runs a version of Apple's desktop operating system, OS X.[10] The release of iPhone OS 1.1 brought support for the iPod Touch (1st generation). iPhone OS 1.1.5 was the final version of iPhone OS 1. It became unsupported on May 18, 2010. What Apple did not announce was the prototype code name "Acorn OS" which looked like the iPod Classic.[11]
+
+Table of versions: iPhone OS 1.0.x
+Table of versions: iPhone OS 1.1.x
+iPhone OS 2
+Apple announced iPhone OS 2 at the iPhone software roadmap keynote in March 2008, and it was released to the public on July 11, 2008, alongside the iPhone 3G. Apple did not drop support for any devices with this release. iPhone OS 2 was compatible with all devices released up to that time. The release of iPhone OS 2.1.1 brought support for the iPod Touch (2nd generation). iPhone OS 2.2.1 was the final version of iPhone OS 2. It became unsupported on December 3, 2011.
+
+Table of versions: iPhone OS 2.0.x
+Table of versions: iPhone OS 2.1.x
+Table of versions: iPhone OS 2.2.x
+iPhone OS 3
+Apple announced iPhone OS 3 on March 17, 2009, and it was released to the public on June 17, 2009, alongside the iPhone 3GS. Apple did not drop support for any devices with this release. iPhone OS 3 was compatible with all devices released up to that time, but not all features were available on the original iPhone. The final release supported on the original iPhone and iPod Touch (1st generation) was iPhone OS 3.1.3. The first iPad was introduced along with iPhone OS 3.2.[38][39] It became unsupported on December 9, 2012.
+
+Table of versions: iPhone OS 3.0.x
+Table of versions: iPhone OS 3.1.x
+Table of versions: iPhone OS 3.2.x – iPad only[49]
+iOS 4
+Apple announced iOS 4 in March 2010 and it was released to the public on June 21, 2010, alongside the iPhone 4. With this release, Apple dropped support for the original iPhone and iPod Touch (1st generation), which is the first time Apple had dropped support for any device in an iOS release. The iPhone 3G and the iPod Touch (2nd generation) were capable of running iOS 4, but had limited features. For example, both devices lack multitasking capabilities and the ability to set a home screen wallpaper. However, iOS 4 was the first major release that iPod Touch users did not have to pay any money for. The release of iOS 4.2.1 brought compatibility to the original iPad and was the final release supported on the iPhone 3G and iPod Touch (2nd generation) due to major performance issues. The release of iOS 4.3 brought iPad 2 compatibility.[52][53] It became unsupported on December 18, 2013.
+
+Table of versions: iOS 4.0.x – iPod Touch and iPhone only
+Table of versions: iOS 4.1 – iPod Touch and iPhone only
+Table of versions: iOS 4.2.x
+Table of versions: iOS 4.3.x
+iOS 5
+Apple announced iOS 5 on June 6, 2011, at its annual Apple Worldwide Developers Conference (WWDC) event, and it was released to the public on October 12, 2011, alongside the iPhone 4S.[77] Apple did not drop support for any devices with this release; support for the iPhone 3G and the iPod Touch (2nd generation) had already been dropped with the release of iOS 4.3 seven months earlier due to major performance issues. Therefore, iOS 5 was released for the iPhone 3GS onwards, iPod Touch (3rd generation) onwards, and the iPad (1st generation) and iPad 2.[78] The release of iOS 5.1 brought support for the iPad (3rd generation). iOS 5.1.1 was the final release supported for the original iPad and iPod Touch (3rd generation). It became unsupported on August 12, 2015.
+
+Table of versions: iOS 5.0.x
+Table of versions: iOS 5.1.x
+iOS 6
+Apple announced iOS 6 on June 11, 2012, at its annual Apple Worldwide Developers Conference (WWDC) event, and it was released to the public on September 19, 2012, alongside the iPhone 5, iPod Touch (5th generation), and iPad (4th generation). With this release, Apple dropped support for the iPod Touch (3rd generation) and the iPad (1st generation) due to performance issues, and offered only limited support on the iPhone 3GS and iPod Touch (4th generation). The iPhone 4 onwards, the iPod Touch (5th generation), the iPad 2 onwards and the iPad Mini (1st generation) were fully supported.[89] iOS 6.1.6 was the final release supported for the iPhone 3GS and iPod Touch (4th generation). It became unsupported on November 23, 2016.
+
+Table of versions: iOS 6.0.x
+Table of versions: iOS 6.1.x
+iOS 7
+Apple announced iOS 7 on June 10, 2013, at its annual Apple Worldwide Developers Conference (WWDC) event, and it was released to the public on September 18, 2013, alongside the iPhone 5C and iPhone 5S. With this release, Apple dropped support for the iPhone 3GS due to hardware limitations and the iPod Touch (4th generation) due to performance issues. iOS 7 has limited support on the iPad 2 and the iPhone 4 since they do not support Siri. However, other devices from the iPhone 4S onwards, iPod Touch (5th generation) onwards, the iPad (3rd generation) onwards, and the iPad Mini (1st generation) onwards were fully supported. The release of iOS 7.0.3 brought support for the iPad Air and iPad Mini 2. iOS 7.1.2 was the final release on the iPhone 4. It became unsupported on November 23, 2018.
+
+Table of versions: iOS 7.0.x
+Table of versions: iOS 7.1.x
+iOS 8
+Apple announced iOS 8 on June 2, 2014, at its annual Apple Worldwide Developers Conference (WWDC) event, and it was released to the public on September 17, 2014, alongside the iPhone 6 and iPhone 6 Plus. With this release, Apple dropped support for one device, the iPhone 4. iOS 8 has limited support on the iPad 2, iPhone 4S, iPad (3rd generation), and the iPod Touch (5th generation), as Apple received widespread complaints of extremely poor/slow performance from owners of these devices. All other devices from the iPhone 5 onwards, iPod Touch (6th generation) onwards, the iPad (4th generation) onwards, and the iPad Mini (1st generation) onwards were fully supported. The release of iOS 8.1 brought support for the iPad Air 2 and iPad Mini 3, and the release of iOS 8.4 brought support for the iPod Touch (6th generation). iOS 8.3 was the first version of iOS to have public beta testing available, where users could test the beta for upcoming releases of iOS and send feedback to Apple about bugs or issues. The final version of iOS 8 was iOS 8.4.1.
+
+Table of versions: iOS 8.0.x
+Table of versions: iOS 8.1.x
+Table of versions: iOS 8.2
+Table of versions: iOS 8.3
+Table of versions: iOS 8.4.x
+iOS 9
+Apple announced iOS 9 on June 8, 2015, at its annual Apple Worldwide Developers Conference (WWDC) event, and it was released to the public on September 16, 2015, alongside the iPhone 6S, iPhone 6S Plus and iPad Mini 4. With this release, Apple did not drop support for any iOS devices. Therefore, iOS 9 was supported on the iPhone 4S onwards, iPod Touch (5th generation) onwards, the iPad 2 onwards, and the iPad Mini (1st generation) onwards. However, iOS 9 has limited support on devices with an Apple A5 or A5X processor: the iPhone 4S, iPad 2, iPad (3rd generation), iPad Mini (1st generation), and iPod Touch (5th generation). This release made the iPad 2 the first device to support six major releases of iOS, supporting iOS 4 thru iOS 9. Despite Apple's promise of better performance on these devices, there were still widespread complaints that the issue had not been fixed. iOS 9.3.5 is the final release on the iPod Touch (5th generation), the Wi-Fi-only iPad 2, the Wi-Fi-only iPad (3rd generation), and the Wi-Fi-only iPad Mini (1st generation); iOS 9.3.6 is the final release on the iPhone 4S, the Wi-Fi + cellular iPad 2, the Wi-Fi + cellular iPad (3rd generation), and the Wi-Fi + cellular iPad Mini (1st generation).
+
+Table of versions: iOS 9.0.x
+Table of versions: iOS 9.1
+Table of versions: iOS 9.2.x
+Table of versions: iOS 9.3.x
+iOS 10
+Apple announced iOS 10 on June 13, 2016, at its annual Apple Worldwide Developers Conference (WWDC) event, and it was released to the public on September 13, 2016, alongside the iPhone 7 and iPhone 7 Plus. With this release, Apple dropped support for devices using an A5 or A5X processor: the iPhone 4S, the iPad 2, iPad (3rd generation), iPad Mini (1st generation), and iPod Touch (5th generation). iOS 10 has limited support on devices with 32-bit processors: the iPhone 5, iPhone 5C, and iPad (4th generation). However, the iPhone 5S onwards, iPod Touch (6th generation), iPad Air onwards, and the iPad Mini 2 onwards are fully supported. The release of iOS 10.2.1 brought support for the iPad (5th generation), and iOS 10.3.2 brought support for the iPad Pro (10.5-inch) and the iPad Pro (12.9-inch, 2nd generation). iOS 10.3.3 is the final supported release for the iPhone 5C and the Wi-Fi-only iPad (4th generation). iOS 10.3.4 is the final supported release for the iPhone 5 and the Wi-Fi + cellular iPad (4th generation). iOS 10 is the last iOS version to run on 32-bit processors and also the last to run 32-bit apps.
+
+Table of versions: iOS 10.0.x
+Table of versions: iOS 10.1.x
+Table of versions: iOS 10.2.x
+Table of versions: iOS 10.3.x
+iOS 11
+Apple announced iOS 11 on June 5, 2017, at its annual Apple Worldwide Developers Conference (WWDC) event, and it was released to the public on September 19, 2017, alongside the iPhone 8 and iPhone 8 Plus. With this release, Apple dropped support for the 32-bit iPhone 5, iPhone 5C, and iPad (4th generation), making iOS a 64-bit-only OS that only runs 64-bit apps. However, all other devices from the iPhone 6S/6S Plus onwards, iPhone SE (1st generation), iPad Pro, and iPad (5th generation) onwards are fully supported. iOS 11.0.1 brought support for the iPhone X and iOS 11.3 brought support for the iPad (6th generation). The final version of iOS 11 to be released was iOS 11.4.1.
+
+Table of versions: iOS 11.0.x
+Table of versions: iOS 11.1.x
+Table of versions: iOS 11.2.x
+Table of versions: iOS 11.3.x
+Table of versions: iOS 11.4.x
+iOS 12
+Apple announced iOS 12 on June 4, 2018, at its annual Apple Worldwide Developers Conference (WWDC) event, and it was released to the public on September 17, 2018, alongside the iPhone XS and iPhone XS Max. With this release, Apple did not drop support for any iOS devices. Therefore, iOS 12 was supported on the iPhone 5S onwards, iPod Touch (6th generation), the iPad Air onwards, and the iPad Mini 2 onwards. However, iOS 12 has limited support on devices with the Apple A7 or A8 processors: the iPhone 5S, iPhone 6/6 Plus, iPod Touch (6th generation), iPad Air, iPad Air 2, iPad Mini 2, 3, and 4. All other devices from the iPhone 6S/6S Plus onwards, the iPad Air (2019), the iPad (5th generation) onwards, and all iPad Pro models are fully supported.
+
+Table of versions: iOS 12.0.x
+Table of versions: iOS 12.1.x
+Table of versions: iOS 12.2
+Table of versions: iOS 12.3.x
+Table of versions: iOS 12.4.x
+iOS 13
+Apple announced iOS 13 on June 3, 2019, at its annual Apple Worldwide Developers Conference (WWDC) event, and it was released to the public on September 19, 2019. Features include dark mode and Memoji support for A9+ devices. The NFC framework now supports reading several types of contactless smartcards and tags.[158] The iPad gains several tablet-oriented features, and its operating system has been rebranded as iPadOS. With this release, Apple dropped support for all devices with less than 2 GB of RAM, which included the iPhone 5S and iPhone 6 and 6 Plus, iPod Touch (6th generation), iPad Mini 2, iPad Mini 3, and iPad Air. iOS 13/iPadOS 13 has also limited support on devices with the A8/A8X or A9/A9X processors: the first-generation iPhone SE, iPhone 6S/6S Plus, iPad Mini 4, iPad Air 2, iPad (5th generation), and iPad Pro (1st generation). However, all other devices from the iPhone 7/7 Plus onwards, iPod Touch (7th generation), iPad Pro (2nd generation), iPad (6th generation), and iPad Mini (5th generation) onwards are fully supported. iOS 13 brought support for the iPhone 11 and iPhone 11 Pro / Pro Max, second-generation iPhone SE, and iPadOS 13 brought support for the iPad (7th generation).
+
+Table of versions: iOS 13.0 - iPhone only
+Table of versions: iOS 13.1.x
+Table of versions: iOS 13.2.x
+Table of versions: iOS 13.3.x
+Table of versions: iOS 13.4.x
+Table of versions: iOS 13.5.x
+iPhone family:
+6S/6S PlusSE (1st generation)7/7 Plus8/8 PlusXXRXS/XS Max1111 Pro/11 Pro MaxSE (2nd generation)
+iPod family:
+7
+Limited support on iPhone 6S/6S Plus and iPhone SE (1st generation)
+
+Version	Build	Baseband	Release date	Features
+13.5	17F75		May 20, 2020; 7 days ago	
+Face ID and Passcode
+The unlock process has been simplified for devices with Face ID when users are wearing a face mask.
+The passcode field is automatically presented after swiping up from the bottom of the Lock Screen when a user is wearing a face mask.
+Also works when authenticating with the App Store, Apple Books, Apple Pay, iTunes, and other apps that support Face ID authentication.
+Exposure Notification API
+Supports COVID-19 (Coronavirus) contact tracing apps from public health authorities.
+FaceTime
+An option has been added that allows users to control automatic prominence on Group FaceTime calls so video tiles do not change size when a participant speaks.
+Emergency Services
+An option has been added that allows users to automatically share health and other essential information from their Medical ID with emergency services when they place an emergency call (only available in the United States).
+Bug Fixes and Other Improvements
+Fixes an issue where users may see a black screen when trying to play streaming video from some websites.
+Addresses an issue in the share sheet where suggestions and actions would not load.
+Security Content
+https://support.apple.com/en-us/HT211168
+Notable software bugs and issues in iOS
+iOS 4
+Main article: iOS 4 § Problems
+Alarm clock bugs
+The Alarm feature of the built in Clock app in the iPhone and iPod Touch has been plagued by major bugs in all versions of iOS 4. The first bug noticed was the "DST bug" which was first seen when some countries switched to/from daylight saving time from/to standard time in October or November 2010.[162][163] It caused recurring alarms to start going off an hour too early or late. Apple promised the bug would be fixed in iOS 4.2 but according to some reports it still exists even in iOS 4.3.1.[164]
+
+The second alarm clock bug discovered was the "New Year's Day bug" which showed up on January 1, 2011 and January 1, 2012. It caused non-recurring alarms to never work.[165] However, two days after each New Year's Day, on January 3, 2011, they "magically" started working again. This bug was seemingly fixed in iOS 4.3.[166]
+
+iOS 5
+Main article: iOS 5 § Problems
+Battery drain bugs
+Apple confirmed that several battery life bugs were negatively affecting battery life in iOS 5.[167] They attempted to fix these bugs with iOS 5.0.1 and 5.1 but the problem still remained.[168] Finally, these bugs were fixed in iOS 5.1.1.
+
+Wi-Fi
+The launch of the iOS 5 update on October 12, 2011 (including iOS 5.0.1 released on November 10, 2011), led many users to report a major bug causing the device to lose Wi-Fi access. This problem has supposedly been fixed with the release of iOS 5.1.1[169][170]
+
+SIM card
+Some users of the iPhone 4S and iPad (Wi-Fi + Cellular) reported issues with the SIM card in iOS 5.0,[171] and even though Apple attempted to fix these issues in version 5.0.1 build 9A406 (for iPhone 4S only), they still remained.[172]
+
+Echo bugs
+Some users of the iPhone 4 and iPhone 4S reported issues with having echo problems during phone call in the initial release of iOS 5, which causes echoes to appear randomly during phone calls made through earbuds. The other party in the call is generally unable to hear the conversation due to this problem.[173] Apple has since released version 5.1.1 in an attempt to fix the problem.
+
+iOS 6
+Main article: iOS 6 § Problems
+Maps
+Apple has admitted that there were several bugs in the mapping app on iOS 6, with cities in the wrong location, some places being missed off altogether, some places misnamed and places of interest in the sea.[174][175][176] Problems submitted by users have gradually been addressed with daily updates to Maps.[177]
+
+Bluetooth
+Many users report a problem with Bluetooth audio streaming to a range of compatible devices. The sound cuts out every now and then for no apparent reason. As of October 2012, no solution has been provided by Apple.[178]
+
+Location-based Reminders
+Location-based reminders do not work for iPads, even though they were promised to work on cellular enabled devices.[179] It has later been clarified by Apple that only the 4th generation iPad and the iPad Mini 1st generation or later will be able to use this.[180]
+
+Cellular Network
+In iOS 6.1, users reported problems with cellular connectivity. This was addressed for the iPhone 4S in iOS 6.1.1 which "fixes an issue that could impact cellular performance and reliability for iPhone 4S."[181]
+
+Do Not Disturb
+Many iPhone users experienced a bug with the Do Not Disturb feature when the calendar changed from 2012 to 2013. The feature would be left on past the scheduled time set by the user, allowing texts, notifications, and alarm settings to be missed. The bug was caused by a difference in formatting in the ISO calendar system versus the Gregorian calendar system.[182] Apple did not offer a quick software update for the bug, instead saying that the bug would fix itself on January 7, 2013.[183]
+
+Microsoft Exchange
+Another bug causes issues when iOS devices connect to a Microsoft Exchange server to retrieve email, resulting in message "mailbox server resources are consumed, log growth becomes excessive, memory and CPU use may increase significantly, and server performance is affected".[184] Microsoft have suggested several workarounds,[185] and Apple responded with a KnowledgeBase article describing the cause of the bug and a suggested temporary workaround, promising a fix in the near future,[186] which was then fixed with release of iOS 6.1.2.
+
+Lockscreen bypass code
+On iPhones, another bug found in 6.1 allowing bypassing the lock screen's passcode to temporarily gain full access to the Phone app, by performing a specific sequence of actions on the phone that remained unfixed,[187] with Apple acknowledging the bug[188] and then addressed with release of iOS 6.1.3.
+
+Audio profile speakerphone
+iPhone 5 users experienced dropped calls during the release of iOS 6.1.3 when there was an issue with the audio microphone profile. This also caused issues with many voice-over commands, including Siri, to get different results than expected or to fail easily. Apple fixed this bug with the release of iOS 6.1.4, which updated the audio speaker profile so users would get better results.
+
+FaceTime
+Shortly after Apple released iOS 7, users running iOS 6 were said to have problems using FaceTime. Apple later released a support document stating that this was due to an expired device certificate and that devices that support iOS 7 should update to it in order to resolve these issues.[189] Devices that are unable to run iOS 7, the fourth-generation iPod Touch and the iPhone 3GS, should upgrade to iOS 6.1.6.[189]
+
+Data security
+An attacker can collect or modify data in sessions protected by SSL/TLS protocols. This same bug was also reported on iOS 7.0.4 and iOS 7.0.5 for the iPhone 5C and 5S. For the iPhone 3GS and the iPod Touch (4th generation), iOS 6.1.6 was released to fix this issue since iOS 7 is not compatible with these devices (see iOS 7.x).
+
+iOS 7
+Main article: iOS 7 § Problems
+Passcode screen bypass bugs
+People are able to bypass the "Enter Passcode" screen. This flaw was discovered within hours of it becoming publicly available. This is only able to be done on iPhone 5 and earlier while the iPhone 5C and iPhone 5S are safe from this bug. This is caused by the ability to use the control center via the lock screen and tapping on the camera or timer buttons. This feature can be turned off in the Settings app.[190] This was fixed in iOS 7.0.2.
+
+Motion Sickness
+Users complained about dizziness and vertigo-like symptoms when using this operating system because of parallax motion effects. In iOS 7.1, a new function in the Settings app named "Reduce Motion" was introduced to reduce the motion of the user interface and disable the parallax effects.[191]
+
+Creation of CardDAV Accounts not working
+Creating a CardDAV Account contains a bug that needs manual fixing of the CardDAV-Server-URL.[192]
+
+Battery drain problems
+In iOS 7.1, users have reported seeing significant drain on their batteries after installing the new update.[193]
+
+FaceTime
+Issues with video-calling and connection errors. This was fixed in iOS 7.0.4. (See iOS 6.x)
+
+Safari ignores local domain
+Local domain names can no longer be resolved in Safari.[194][195] This breaks short names on the local network, e.g. 'nas' for nas.<ourdomain>.
+
+Home screen crashes
+Users have reported various crashes of the home screen, the core service that renders the home screen icons, Notification Center, Control Center, Siri and the lockscreen.[196] This was fixed in iOS 7.1.
+
+Data security
+Secure transport failed to validate the authenticity of connection. This issue was addressed by restoring missing validation steps. This may cause an attacker with a privileged network position to capture or modify data in sessions protected by SSL/TLS.[197] This issue was addressed by the release of iOS 7.0.6.
+
+Battery Indicator stuck until restart
+iPhone 4S users report experiencing problems with the battery indicator; the indicator will freeze at the same value until the iPhone is restarted again.[198][199]
+
+Touch ID
+In iOS 7.1, Touch ID was not functioning on the iPhone 5S. The problem cannot be resolved by turning Touch ID on and off in the "Fingerprint and Passcode" menu, restarting, resetting, or restoring the device using iTunes. This problem was similar to the iOS 8.0.1 release, which crippled iPhone 6 and iPhone 6 Plus of both cellular and Touch ID. This was fixed in iOS 7.1.1.
+
+iOS 8
+Main article: iOS 8 § Problems
+HealthKit
+Shortly after the release of iOS 8, Apple released a statement pointing out that a bug had been found in the operating system which prevented HealthKit-compatible apps from being released alongside iOS 8.[200] Apps already released that included Healthkit functionality were withdrawn from the App Store. iOS 8.0.1/8.0.2 included a fix for this issue.
+
+iOS 8.0.1
+iPhone 6 and iPhone 6 Plus users who updated to iOS 8.0.1 wirelessly had cellular service and Touch ID disabled due to a software issue. Over-the-Air downloads of iOS 8.0.1 were stopped within an hour of the release of the software, but many early adopters had been affected. These issues were fixed with the release of iOS 8.0.2 a day later.
+
+Touch ID
+Users who updated phones with Touch ID enabled to iOS 8.3 found out that they could not use Touch ID to make App Store purchases.[201] A workaround has been devised by users to repair this issue.[202]
+
+Performance
+Many users of older generation devices such as the iPhone 4s and the iPad 2 reported performance issues with iOS 8. Apple has since released iOS 8.1.1 in attempt to fix the problem.
+
+Keyboard
+Several issues with the new Keyboard API in iOS 8 were reported, including problems with custom keyboards crashing or not appearing, or being replaced with the default keyboard. Apple has since released iOS 8.3 in attempt to fix the problem.
+
+iMessage
+When a specific set of Arabic, Unicode, and English characters are sent through iMessage to an iOS device running iOS 8.0 or later, it causes the device to crash. This bug was discovered by a Reddit user in May 2015. Apple has since released a software update (iOS 8.4) to fix this issue.[203]
+
+iOS 9
+Main article: iOS 9 § Problems
+Game Center
+Many users reported greatly increased Game Center loading times which in turn caused apps that used Game Center logins to appear to load slowly.[204] This was fixed in iOS 9.1.
+
+January 1, 1970
+On 64-bit iOS devices, setting the date to January 1, 1970 and restarting the iPhone would prevent the device from starting up until it lost power or its time setting shifted past January 1, 1970.[205] This was fixed with the release of iOS 9.3.
+
+Error 53
+Updating an iPhone 6 with a replaced Touch ID sensor to a new version of iOS would cause the update to fail and report an "Error 53."[206], as a result of additional hardware security checks left unintentionally[206]. This was fixed with a re-release of iOS 9.2.1, with build number 13D20.
+
+Bluetooth
+Many iPhone SE owners experienced various issues relating to phone calls via Bluetooth connectivity.[207] This issue was fixed with iOS 9.3.2.
+
+Security
+A WebKit rendering component exploit was discovered that threatened users' security by allowing access to device sensors was discovered with the release of 9.3.3. The exploit worked by tricking the user to click on a URL contained in an SMS.[208] This was quickly fixed with the release of 9.3.5.
+
+iOS 10
+Main article: iOS 10 § Problems
+"30% battery bug"
+Many users, especially those owning an iPhone 6s, reported that their phones would shut down automatically with 30% battery left.[209] This issue was fixed with the release of iOS 10.3.
+
+As of the iOS 10.2.1 release, iOS throttles CPU performance on iPhones with batteries in poor health. This eventually led to Batterygate shortly after the iOS 11 release. As a result, Apple announced battery replacements would be $29 instead of $79.[210] They also announced that iOS 11.3 would show battery health in the Settings > Battery menu and let the user decide if they wanted the previous 30% shutdown behavior or the throttled CPU.[211]
+
+iOS 11
+Main article: iOS 11 § Problems
+Battery
+Many users reported worse battery life with iOS 11 than with iOS 10.3.3.[212] This issue was addressed with the release of iOS 11.1.[213]
+
+Calculator
+Due to an animation bug, quickly typing in an equation caused the built-in Calculator app to display incorrect answers.[214] The bug was fixed in iOS 11.2.
+
+Mail
+Users with Outlook.com, Office 365, and certain Exchange accounts were unable to send email.[215] This has been resolved with the release of iOS 11.0.1.[150]
+
+AutoCorrect
+Users complained of a bug in the built-in keyboard in iOS 11 that changed the letter "I" to "A [?]".[216] This was fixed with the release of iOS 11.1.1.[217]
+
+December 2 respring
+A bug in iOS 11 was present that would cause the device to constantly respring and crash if an app sends local notifications on or after 00:15 on December 2, 2017. Apple responded by releasing iOS 11.2 early, which fixed the bug.[218]
+
+Telugu character crash
+A bug was present in iOS 10 and 11 that would cause an app to crash when a certain Telugu character(జ్ఞ ‌ా) was pasted into it, or for the phone to respring if pasted into Spotlight.[219] The bug was fixed with iOS 11.2.6.[220]
+
+iPhone 8 touchscreen issues after third party repair
+A bug with iOS 11.3 caused some iPhone 8 devices that had had their screens repaired by a third party repair shop to become unusable by disabling the touch screen. Apple corrected this issue by releasing iOS 11.3.1.[221]
+
+iOS 12
+Main article: iOS 12 § Problems
+Sending iMessages to the wrong contacts
+iOS 12 merges conversation history for devices using a shared Apple ID, even if separate handles are used, such as unique phone numbers or email Fixes. As a result, iMessages may be delivered to the wrong device.[222]
+
+iOS 12.3.2 update incompatibility
+The iOS 12.3.2 update, released for iPhone 8 Plus devices only, caused users to be unable to transfer backups for this version to a different iPhone as only the 8 Plus has this software update.
+
+iOS 12.4 jailbreak
+Apple accidentally undid a fix to a kernel code execution exploit (Sock Puppet) that was fixed in iOS 12.3. This made iOS 12.4 vulnerable to the exploit, and a jailbreak was released. Later, the kernel vulnerability was patched again by Apple in iOS 12.4.1.
+
+Device codes
+iPhone
+^P1 iPhone (1st generation)
+^P2 iPhone 3G
+^P3 iPhone 3GS
+^P4 iPhone 4 (GSM version)
+^P4C iPhone 4 (CDMA version)
+^P4S iPhone 4S
+^P5 iPhone 5
+^P5C iPhone 5C
+^P5S iPhone 5S
+^P6 iPhone 6
+^P6P iPhone 6 Plus
+^P6S iPhone 6S
+^P6SP iPhone 6S Plus
+^PSE iPhone SE (1st generation)
+^P7I iPhone 7 with Intel PMB9943 modem
+^P7Q iPhone 7 with Qualcomm MDM9645 modem
+^P7PI iPhone 7 Plus with Intel PMB9943 modem
+^P7PQ iPhone 7 Plus with Qualcomm MDM9645 modem
+^P8I iPhone 8 with Intel PMB9948 modem
+^P8Q iPhone 8 with Qualcomm MDM9655 modem
+^P8PI iPhone 8 Plus with Intel PMB9948 modem
+^P8PQ iPhone 8 Plus with Qualcomm MDM9655 modem
+^PXI iPhone X with Intel PMB9948 modem
+^PXQ iPhone X with Qualcomm MDM9655 modem
+^PXS iPhone XS
+^PXSM iPhone XS Max
+^PXR iPhone XR
+^P11 iPhone 11
+^P11P iPhone 11 Pro
+^P11PM iPhone 11 Pro Max
+iPad
+^S1 iPad (1st generation) Wi-Fi only
+^S1C iPad (1st generation) Wi-Fi+3G
+^S2 iPad 2 Wi-Fi-only
+^S2C iPad 2 Wi-Fi+3G GSM
+^S2D iPad 2 Wi-Fi+3G CDMA
+^S3 iPad 3 Wi-Fi-only
+^S3L iPad 3 Wi-Fi+4G (LTE) (AT&T/global version)
+^S3D iPad 3 Wi-Fi+4G (LTE) (Verizon version)
+^S4 iPad 4 Wi-Fi-only
+^S4L iPad 4 Wi-Fi+4G (LTE) (AT&T/global version)
+^S4D iPad 4 Wi-Fi+4G (LTE) (Verizon version)
+^S5 iPad Air Wi-Fi-only
+^S5L iPad Air Wi-Fi+4G (LTE) (AT&T/global version)
+^S5D iPad Air Wi-Fi+4G (LTE) (Verizon version)
+^S6 iPad Air 2 Wi-Fi-only
+^S6L iPad Air 2 Wi-Fi+4G (LTE) (AT&T/global version)
+^S7 iPad (2017) Wi-Fi-only
+^S7L iPad (2017) Wi-Fi+4G (LTE) (AT&T/global version)
+^S8 iPad (2018) Wi-Fi-only
+^S8L iPad (2018) Wi-Fi+4G (LTE) (AT&T/global version)
+^S9 iPad Air (2019) Wi-Fi-only
+^S9L iPad Air (2019) Wi-Fi+4G (LTE) (AT&T/global version)
+^S10 iPad (2019) Wi-Fi-only
+^S10L iPad (2019) Wi-Fi+4G (LTE) (AT&T/global version)
+iPad Mini
+^M1 iPad Mini (1st generation) Wi-Fi-only
+^M1C iPad Mini (1st generation) Wi-Fi+4G (LTE)
+^M2 iPad Mini 2 Wi-Fi-only
+^M2C iPad Mini 2 Wi-Fi+4G (LTE)
+^M3 iPad Mini 3 Wi-Fi-only
+^M3C iPad Mini 3 Wi-Fi+4G (LTE)
+^M4 iPad Mini 4 Wi-Fi-only
+^M4C iPad Mini 4 Wi-Fi+4G (LTE)
+^M5 iPad Mini (5th generation) Wi-Fi-only
+^M5C iPad Mini (5th generation) Wi-Fi+4G (LTE)
+iPad Pro
+^R1 iPad Pro (1st generation (12.9-inch)) Wi-Fi-only
+^R1C iPad Pro (1st generation (12.9-inch)) Wi-Fi+4G (LTE)
+^R2 iPad Pro (9.7-inch) Wi-Fi-only
+^R2C iPad Pro (9.7-inch) Wi-Fi+4G (LTE)
+^R3 iPad Pro (2nd generation (12.9-inch)) Wi-Fi-only
+^R3C iPad Pro (2nd generation (12.9-inch)) Wi-Fi+4G (LTE)
+^R4 iPad Pro (10.5-inch) Wi-Fi-only
+^R4C iPad Pro (10.5-inch) Wi-Fi+4G (LTE)
+^R5 iPad Pro (3rd generation (12.9-inch)) Wi-Fi-only
+^R5C iPad Pro (3rd generation (12.9-inch)) Wi-Fi+4G (LTE)
+^R6 iPad Pro (1st generation (11-inch)) Wi-Fi-only
+^R6C iPad Pro (1st generation (11-inch)) Wi-Fi+4G (LTE)
+^R7 iPad Pro (4th generation (12.9-inch)) Wi-Fi-only
+^R7C iPad Pro (4th generation (12.9-inch)) Wi-Fi+4G (LTE)
+^R8 iPad Pro (2nd generation (11-inch)) Wi-Fi-only
+^R8C iPad Pro (2nd generation (11-inch)) Wi-Fi+4G (LTE)

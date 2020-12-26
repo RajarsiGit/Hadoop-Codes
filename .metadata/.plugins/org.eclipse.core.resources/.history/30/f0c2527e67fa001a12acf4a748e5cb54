@@ -1,0 +1,3 @@
+package q1;
+
+import java.util.*; public class çook { public static void main(String args[]) { HashMap <Integer,String> c = new HashMap<Integer,String>(); c.put(1,"core"); c.put(2,"java"); c.put(3,"session"); System.out.println(c.keySet()); } }

@@ -1,0 +1,8 @@
+package q1;
+
+public class hello {
+	void main() {
+		float a=35/0;
+		System.out.print(a);
+	}
+}

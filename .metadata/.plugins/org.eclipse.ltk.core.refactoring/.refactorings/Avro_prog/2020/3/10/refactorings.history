@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;avro&apos; to &apos;src&apos;&#x0D;&#x0A;- Original project: &apos;Avro_prog&apos;&#x0D;&#x0A;- Destination element: &apos;src&apos;&#x0D;&#x0A;- Original element: &apos;Avro_prog/src/avro&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" element1="/src&lt;avro" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1583344285266" target="/hadoop-client/src" version="1.0"/>
+</session>

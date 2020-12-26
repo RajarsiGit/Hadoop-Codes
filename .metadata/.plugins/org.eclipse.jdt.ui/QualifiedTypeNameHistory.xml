@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="java.nio.charset.Charset"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.JobClient"/>
+<fullyQualifiedTypeName name="wcl.WordCountLength.WCLReducer1"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.JobConf"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.ws.policy.privateutil.PolicyUtils.Text"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.TextInputFormat"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.TextOutputFormat"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.MapOutputCollector.Context"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Job"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.jobcontrol.JobControl"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.conf.Configured"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.util.Tool"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.util.ToolRunner"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.conf.Configuration"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.jobcontrol.ControlledJob"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.jobcontrol.Job"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.FileSystem"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.FSDataInputStream"/>
+</qualifiedTypeNameHistroy>

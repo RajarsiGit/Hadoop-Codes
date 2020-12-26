@@ -1,0 +1,1 @@
+hadoop jar %ECLIPSE_HOME%\JoinMapReduce\JMR.jar joinmapreduce.SmsDriver /input_dir_join/UserDetails.txt /input_dir_join/DeliveryDetails.txt /output_dir_join

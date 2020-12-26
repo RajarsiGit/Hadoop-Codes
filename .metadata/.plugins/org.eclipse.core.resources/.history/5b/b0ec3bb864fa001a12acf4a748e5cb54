@@ -1,0 +1,13 @@
+package q1;
+
+import java.util.*;
+public class HahMapsSamples1 {
+	public static void main(String args[]) {
+		HashMap <Integer,String> c = new HashMap<Integer,String>();
+		c.put(1,"core");
+		c.put(2,"java");
+		c.put(3,"session");
+		c.put(1,"final");
+		System.out.println(c.get(1));
+		}
+	}

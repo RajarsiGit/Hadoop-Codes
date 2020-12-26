@@ -1,0 +1,3 @@
+package q1;
+
+import java.util.*;class superclass { public void get(String t) { System.out.println("superclass " + t); } } public class subclass extends superclass { public void get(String t) { System.out.println("subclass " + t); } public static void main(String[] args) { superclass obj = new superclass(); obj.get("java"); subclass obj1 = new subclass(); obj1.get("core java"); } }

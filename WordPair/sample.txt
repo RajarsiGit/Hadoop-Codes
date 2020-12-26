@@ -1,0 +1,89 @@
+Lorem ipsum 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac faucibus odio. 
+
+Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi. Praesent ut varius sem. Nullam at porttitor arcu, nec lacinia nisi. Ut ac dolor vitae odio interdum condimentum. Vivamus dapibus sodales ex, vitae malesuada ipsum cursus convallis. Maecenas sed egestas nulla, ac condimentum orci. Mauris diam felis, vulputate ac suscipit et, iaculis non est. Curabitur semper arcu ac ligula semper, nec luctus nisl blandit. Integer lacinia ante ac libero lobortis imperdiet. Nullam mollis convallis ipsum, ac accumsan nunc vehicula vitae. Nulla eget justo in felis tristique fringilla. Morbi sit amet tortor quis risus auctor condimentum. Morbi in ullamcorper elit. Nulla iaculis tellus sit amet mauris tempus fringilla.
+Maecenas mauris lectus, lobortis et purus mattis, blandit dictum tellus.
+•	Maecenas non lorem quis tellus placerat varius. 
+•	Nulla facilisi. 
+•	Aenean congue fringilla justo ut aliquam. 
+•	Mauris id ex erat. Nunc vulputate neque vitae justo facilisis, non condimentum ante sagittis. 
+•	Morbi viverra semper lorem nec molestie. 
+•	Maecenas tincidunt est efficitur ligula euismod, sit amet ornare est vulputate.
+ 
+
+In non mauris justo. Duis vehicula mi vel mi pretium, a viverra erat efficitur. Cras aliquam est ac eros varius, id iaculis dui auctor. Duis pretium neque ligula, et pulvinar mi placerat et. Nulla nec nunc sit amet nunc posuere vestibulum. Ut id neque eget tortor mattis tristique. Donec ante est, blandit sit amet tristique vel, lacinia pulvinar arcu. Pellentesque scelerisque fermentum erat, id posuere justo pulvinar ut. Cras id eros sed enim aliquam lobortis. Sed lobortis nisl ut eros efficitur tincidunt. Cras justo mi, porttitor quis mattis vel, ultricies ut purus. Ut facilisis et lacus eu cursus.
+In eleifend velit vitae libero sollicitudin euismod. Fusce vitae vestibulum velit. Pellentesque vulputate lectus quis pellentesque commodo. Aliquam erat volutpat. Vestibulum in egestas velit. Pellentesque fermentum nisl vitae fringilla venenatis. Etiam id mauris vitae orci maximus ultricies. 
+
+Cras fringilla ipsum magna, in fringilla dui commodo a.
+
+	Lorem ipsum	Lorem ipsum	Lorem ipsum
+1	In eleifend velit vitae libero sollicitudin euismod.	Lorem	
+2	Cras fringilla ipsum magna, in fringilla dui commodo a.	Ipsum	
+3	Aliquam erat volutpat. 	Lorem	
+4	Fusce vitae vestibulum velit. 	Lorem	
+5	Etiam vehicula luctus fermentum.	Ipsum	
+
+Etiam vehicula luctus fermentum. In vel metus congue, pulvinar lectus vel, fermentum dui. Maecenas ante orci, egestas ut aliquet sit amet, sagittis a magna. Aliquam ante quam, pellentesque ut dignissim quis, laoreet eget est. Aliquam erat volutpat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut ullamcorper justo sapien, in cursus libero viverra eget. Vivamus auctor imperdiet urna, at pulvinar leo posuere laoreet. Suspendisse neque nisl, fringilla at iaculis scelerisque, ornare vel dolor. Ut et pulvinar nunc. Pellentesque fringilla mollis efficitur. Nullam venenatis commodo imperdiet. Morbi velit neque, semper quis lorem quis, efficitur dignissim ipsum. Ut ac lorem sed turpis imperdiet eleifend sit amet id sapien.
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+Nunc ac faucibus odio. Vestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi. Praesent ut varius sem. Nullam at porttitor arcu, nec lacinia nisi. Ut ac dolor vitae odio interdum condimentum. Vivamus dapibus sodales ex, vitae malesuada ipsum cursus convallis. Maecenas sed egestas nulla, ac condimentum orci. Mauris diam felis, vulputate ac suscipit et, iaculis non est. Curabitur semper arcu ac ligula semper, nec luctus nisl blandit. Integer lacinia ante ac libero lobortis imperdiet. Nullam mollis convallis ipsum, ac accumsan nunc vehicula vitae. Nulla eget justo in felis tristique fringilla. Morbi sit amet tortor quis risus auctor condimentum. Morbi in ullamcorper elit. Nulla iaculis tellus sit amet mauris tempus fringilla.
+Maecenas mauris lectus, lobortis et purus mattis, blandit dictum tellus. 
+Maecenas non lorem quis tellus placerat varius. Nulla facilisi. Aenean congue fringilla justo ut aliquam. Mauris id ex erat. Nunc vulputate neque vitae justo facilisis, non condimentum ante sagittis. Morbi viverra semper lorem nec molestie. Maecenas tincidunt est efficitur ligula euismod, sit amet ornare est vulputate.
+In non mauris justo. Duis vehicula mi vel mi pretium, a viverra erat efficitur. Cras aliquam est ac eros varius, id iaculis dui auctor. Duis pretium neque ligula, et pulvinar mi placerat et. Nulla nec nunc sit amet nunc posuere vestibulum. Ut id neque eget tortor mattis tristique. Donec ante est, blandit sit amet tristique vel, lacinia pulvinar arcu. Pellentesque scelerisque fermentum erat, id posuere justo pulvinar ut. Cras id eros sed enim aliquam lobortis. Sed lobortis nisl ut eros efficitur tincidunt. Cras justo mi, porttitor quis mattis vel, ultricies ut purus. Ut facilisis et lacus eu cursus.
+In eleifend velit vitae libero sollicitudin euismod. 
+Fusce vitae vestibulum velit. Pellentesque vulputate lectus quis pellentesque commodo. Aliquam erat volutpat. Vestibulum in egestas velit. Pellentesque fermentum nisl vitae fringilla venenatis. Etiam id mauris vitae orci maximus ultricies. Cras fringilla ipsum magna, in fringilla dui commodo a.
+Etiam vehicula luctus fermentum. In vel metus congue, pulvinar lectus vel, fermentum dui. Maecenas ante orci, egestas ut aliquet sit amet, sagittis a magna. Aliquam ante quam, pellentesque ut dignissim quis, laoreet eget est. Aliquam erat volutpat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut ullamcorper justo sapien, in cursus libero viverra eget. Vivamus auctor imperdiet urna, at pulvinar leo posuere laoreet. Suspendisse neque nisl, fringilla at iaculis scelerisque, ornare vel dolor. Ut et pulvinar nunc. Pellentesque fringilla mollis efficitur. Nullam venenatis commodo imperdiet. Morbi velit neque, semper quis lorem quis, efficitur dignissim ipsum. Ut ac lorem sed turpis imperdiet eleifend sit amet id sapien.
+
+
+
+Maecenas mauris lectus, lobortis et purus mattis, blandit dictum tellus. 
+Maecenas non lorem quis tellus placerat varius. Nulla facilisi. Aenean congue fringilla justo ut aliquam. Mauris id ex erat. Nunc vulputate neque vitae justo facilisis, non condimentum ante sagittis. Morbi viverra semper lorem nec molestie. Maecenas tincidunt est efficitur ligula euismod, sit amet ornare est vulputate.
+In non mauris justo. Duis vehicula mi vel mi pretium, a viverra erat efficitur. Cras aliquam est ac eros varius, id iaculis dui auctor. Duis pretium neque ligula, et pulvinar mi placerat et. Nulla nec nunc sit amet nunc posuere vestibulum. Ut id neque eget tortor mattis tristique. Donec ante est, blandit sit amet tristique vel, lacinia pulvinar arcu. Pellentesque scelerisque fermentum erat, id posuere justo pulvinar ut. Cras id eros sed enim aliquam lobortis. Sed lobortis nisl ut eros efficitur tincidunt. Cras justo mi, porttitor quis mattis vel, ultricies ut purus. Ut facilisis et lacus eu cursus.
+In eleifend velit vitae libero sollicitudin euismod. 
+Fusce vitae vestibulum velit. Pellentesque vulputate lectus quis pellentesque commodo. Aliquam erat volutpat. Vestibulum in egestas velit. Pellentesque fermentum nisl vitae fringilla venenatis. Etiam id mauris vitae orci maximus ultricies. Cras fringilla ipsum magna, in fringilla dui commodo a.
+Etiam vehicula luctus fermentum. In vel metus congue, pulvinar lectus vel, fermentum dui. Maecenas ante orci, egestas ut aliquet sit amet, sagittis a magna. Aliquam ante quam, pellentesque ut dignissim quis, laoreet eget est. Aliquam erat volutpat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut ullamcorper justo sapien, in cursus libero viverra eget. Vivamus auctor imperdiet urna, at pulvinar leo posuere laoreet. Suspendisse neque nisl, fringilla at iaculis scelerisque, ornare vel dolor. Ut et pulvinar nunc. Pellentesque fringilla mollis efficitur. Nullam venenatis commodo imperdiet. Morbi velit neque, semper quis lorem quis, efficitur dignissim ipsum. Ut ac lorem sed turpis imperdiet eleifend sit amet id sapien.
+
+It seems as though the more we embrace external technologies, the more our memory faculties deteriorate. But the truth might just be scarier.
+Jared Cooney Horvath
+May 1, 2020
+797
+ABOVE: © ISTOCK.COM, METAMORWORKS
+Here’s a question that will only make sense to readers of a certain age: What was your childhood telephone number? I’m guessing you had no problem rattling that off despite not having dialed or recited those digits in decades. If technology were truly killing our memory, then surely this useless bit of information would have faded away long ago. But I submit that modern human beings have the same memory capabilities we’ve always had; technology is merely redefining how we choose to employ them.
+
+To understand what’s going on, we must first become acquainted with the structure of memory. In its simplest form, memory can be understood as a three-step process: first we encode information in the brain; then we store that information in the brain; and finally, we retrieve that information from the brain.  From each of these steps, we can learn something interesting about memory in the modern world.
+
+Although technology may be changing what information we encode, store, and retrieve, it does not appear to be altering our memory machinery.
+
+With regard to memory encoding, more than a century ago psychologist Hermann Ebbinghaus demonstrated that the manner in which we expose ourselves to information has a big impact on how memories are formed. More specifically, Ebbinghaus recognized that when we endeavor to ingest massive amounts of information in a single sitting, we ultimately remember less than when we expose ourselves to that same information over a series of shorter periods—ideally, interspersed with several bouts of sleep. If you’ve ever pulled an all-night cram session for an exam only to forget everything you studied a week later, you’ve experienced this principle in action.
+
+Amidst the current attention economy, many modern technologies have been designed to continuously pump out information so as to keep users engaged for longer periods of time. Netflix urges us to watch one more episode, hyperlinks compel us to open one more tab, intermittent rewards drive us to play one more game.
+
+Unfortunately, when information exposure is constant and ceaseless, our ability to hold onto information naturally diminishes. In fact, as colleagues and I demonstrated in a recent study, individuals asked to binge-watch the entire season of a television series remembered significantly less about the plot and characters than individuals who watched the same series on a nightly or weekly schedule. Human beings have always had a limit to the amount of information they could meaningfully encode in any given day. Modern technologies have not changed this; they simply push us beyond this limit more frequently than media of the past.
+
+
+MODIFIED FROM © ISTOCK.COM, AKINDO
+In a highly cited study from 2011, researchers found that individuals remember significantly fewer facts when they’re told that those facts will be externally stored and easily accessible in the future. Termed the “Google Effect,” this is the reason why we so often don’t remember phone numbers, email addresses, or meeting schedules—technology has allowed us to outsource memory storage.
+
+Here’s the problem: in order to meaningfully interact with offloaded information, we must remember where that information is located—which keystrokes are required to access it, how to sift through it, etc. These processes are all internally stored memories. Accordingly, rather than killing our ability to create memories, technology is simply changing what information we choose to remember.
+
+Human thinking and cognition depend largely on those memories we have internally stored. In fact, the higher-order skills most people clamor for, such as critical thinking and creativity, emerge from and can only meaningfully be applied to facts held within our long-term memory. As educational psychologist Paul Kirschner of the Open University of the Netherlands states in a 2006 review paper, “Everything we see, hear, and think about is critically dependent on and influenced by our long-term memory.”
+
+Some researchers have hypothesized that the secret to forming deep, lasting memories resides in the primary encoding phase. More specifically, if an idea or event elicits strong emotions during encoding, then people will form a deeper memory. Although this is true, it can’t be the whole story. Otherwise, why do we all remember completely emotionless TV commercial jingles from our childhood? 
+
+Other researchers have suggested that the secret to forming deep, lasting memories resides in the storage phase. That is, if an experience is repeatedly encountered, there will have been multiple storage opportunities, leading to a deep memory. Again, although this is true, it can’t be the whole story. If it were, more people would be able to draw an accurate Apple Macintosh logo from memory. (Try it yourself.)
+
+It turns out that the secret to forming deep, lasting memories resides in the final retrieval phase. Put simply, memory is constructive: the more you retrieve a memory, dredging it up from the depths using your own cognitive faculties, the easier it becomes to recall in the future. This is likely why we remember so many TV jingles—we retrieve these songs each time we sing them—and why we don’t remember so many ubiquitous logos—very few of us have ever retrieved these images.
+
+Modern technology by and large is geared toward information broadcasting. It specializes in organizing and presenting ideas to people in a highly engaging format. Unfortunately, outside of usernames and passwords, technology is very bad at forcing us to retrieve information. This is the final reason why it may seem technology is killing our memories: when we need never recall information, relevant memories become weak and fleeting. Rest assured, there is no reason to assume human beings are losing the capacity to form deep memories. We are simply using this faculty to access and create deep memories for things such as usernames, passwords, and URLs.
+
+Although technology may be changing what information we encode, store, and retrieve, it does not appear to be altering our memory machinery. The fact that you can remember the name of the folder that holds a specific document, even if you don’t remember the contents of that document, shows memory is still chugging along. We are merely employing it differently than previous generations. This leads to the truly important questions: Do we like how we are currently using our memory? Do we like how this may be altering our learning, our discourse, our evolution? 
+
+If the answer is “no,” then we need to re-evaluate how we are employing modern technologies. That our tools may not be killing memory does not mean they are innocuous. 
+
+Jared Cooney Horvath is an educational neuroscientist at the University of Melbourne in Australia. He also serves as director of LME Global, a company dedicated to bringing the latest in brain and behavioral research to education and business alike. Follow him on Twitter @JCHorvath.    
+
+Keywords:
+memoryneurosciencetechnology
